@@ -1,10 +1,33 @@
-### Samantha Reape - SweetReap 
-------
-##### She / Her - Born and Raised in NYC
-Hello there! I'm Samantha - Passionate Game and Web Developer with art and design skills! I'm currently working on personal projects, and finishing my B.S. in Computer Science.
+### `Samantha Reape | SweetReap`
+###### She / Her - Born and Raised in NYC
+---
 
-------
-### 💬Find Me On My Socials - Contact Me Here!💬
+### Hello there! I'm Sam!
+
+Senior CS student @ Lehman. Passionate Game and Web Developer with art and design skills! I'm currently working on personal projects, and looking for a position as a Software Developer or Web Developer!
+
+---
+
+### `Education`
+##### Computer Science B.A. & Minor in Computer Graphics and Imaging (Senior Year)
+##### Game Design A.A.S (Graduated 2020)
+
+---
+
+| `Skills`                       | 
+| :---------------------------: | 
+| Web Development              |
+| Game Development             |
+| Object Oriented Programming  |
+
+| `Languages`     |
+| :-------------:| 
+| Java          |
+| JavaScript    |
+| Lua           |
+
+
+### 💬 My Socials - Contact Me Here! 💬
 [LinkedIn](https://www.linkedin.com/in/sam-reape/)
 [E-Mail](reape.sam@gmail.com) 
 
