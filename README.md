@@ -4,12 +4,12 @@
 
 ### Hello there! I'm Sam!
 
-Senior CS student @ Lehman. Passionate Game and Web Developer with art and design skills! I'm currently working on personal projects, and looking for a position as a Software Developer or Web Developer!
+Passionate Game and Web Developer with art and design skills! I'm currently working on personal projects, and looking for a position as a Software Developer or Web Developer!
 
 ---
 
 ### `Education`
-##### Computer Science B.A. & Minor in Computer Graphics and Imaging (Senior Year)
+##### Computer Science B.A. & Minor in Computer Graphics and Imaging (Graduated 2024)
 ##### Game Design A.A.S (Graduated 2020)
 
 ---
@@ -18,7 +18,6 @@ Senior CS student @ Lehman. Passionate Game and Web Developer with art and desig
 | :---------------------------: | 
 | Web Development              |
 | Game Development             |
-| Object Oriented Programming  |
 
 | `Languages`     |
 | :-------------:| 
