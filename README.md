@@ -9,7 +9,7 @@ Passionate Game and Web Developer with art and design skills! I'm currently work
 ---
 
 ### `Education`
-##### Computer Science B.A. & Minor in Computer Graphics and Imaging (Graduated 2024)
+##### Computer Science B.A. & Minor in Computer Graphics and Imaging
 ##### Game Design A.A.S (Graduated 2020)
 
 ---
