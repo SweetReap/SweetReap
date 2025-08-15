@@ -4,7 +4,7 @@
 
 ### Hello there! I'm Sam!
 
-Passionate Game and Web Developer with art and design skills! I'm currently working on personal projects, and looking for a position as a Software Developer or Web Developer!
+Passionate Game and Web Developer with art and design skills! I'm currently working on personal projects, and looking for a position in the Tech or Creative fields!
 
 ---
 
