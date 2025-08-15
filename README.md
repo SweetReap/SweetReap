@@ -4,18 +4,18 @@
 
 ### Hello there! I'm Sam!
 
-Passionate Game and Web Developer with art and design skills! I'm currently working on personal projects, and looking for a position in the Tech or Creative fields!
+A Passionate Developer with art and design skills! I'm currently working on personal projects, and looking for a position in the Tech or Creative fields!
 
 ---
 
 ### `Education`
 ##### Computer Science B.A. & Minor in Computer Graphics and Imaging
-##### Game Design A.A.S (Graduated 2020)
+##### Game Design A.A.S
 
 ---
 
-| `Skills`                       | 
-| :---------------------------: | 
+| `Skills`                     | 
+| :---------------------------:| 
 | Web Development              |
 | Game Development             |
 | UX-UI Design (Pending)       |
@@ -25,23 +25,8 @@ Passionate Game and Web Developer with art and design skills! I'm currently work
 | Java          |
 | JavaScript    |
 | Lua           |
-
+| Python        |
 
 ### 💬 My Socials - Contact Me Here! 💬
 [LinkedIn](https://www.linkedin.com/in/sam-reape/)
 [E-Mail](reape.sam@gmail.com) 
-
-<!--
-**SweetReap/SweetReap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
