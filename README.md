@@ -18,6 +18,7 @@ Passionate Game and Web Developer with art and design skills! I'm currently work
 | :---------------------------: | 
 | Web Development              |
 | Game Development             |
+| UX-UI Design (Pending)       |
 
 | `Languages`     |
 | :-------------:| 
