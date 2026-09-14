@@ -24,6 +24,7 @@ A passionate developer with a strong background in art and illustration! Current
 | :-------------:| 
 | Java          |
 | JavaScript    |
+| TypeScript    |
 | Lua           |
 | Python        |
 
