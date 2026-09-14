@@ -18,7 +18,7 @@ A passionate developer with a strong background in art and illustration! Current
 | :---------------------------:| 
 | Web Development              |
 | Game Development             |
-| UX-UI Design (Pending)       |
+| UX/UI Design (Pending)       |
 
 | `Languages`     |
 | :-------------:| 
