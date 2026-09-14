@@ -2,9 +2,9 @@
 ###### She / Her - Born and Raised in NYC
 ---
 
-### Hello there! I'm Sam!
+### Hello there!
 
-A Passionate Developer with art and design skills! I'm currently working on personal projects, and looking for a position in the Tech or Creative fields!
+A passionate developer with a strong background in art and illustration! Currently working on personal projects, and looking for a position in tech or creative fields!
 
 ---
 
